@@ -1,0 +1,138 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.MarkDown.Editor.EXE.GTK", "HolisticWare.MarkDown.Editor.EXE.GTK\HolisticWare.MarkDown.Editor.EXE.GTK.csproj", "{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.MarkDown.Editor.EXE.MonoMac", "HolisticWare.MarkDown.Editor.EXE.MonoMac\HolisticWare.MarkDown.Editor.EXE.MonoMac.csproj", "{FF6C2DAD-BA2D-4F6D-905E-912092E38313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.MarkDown.Editor.EXE.MonoMac.Empty", "HolisticWare.MarkDown.Editor.EXE.MonoMac.Empty\HolisticWare.MarkDown.Editor.EXE.MonoMac.Empty.csproj", "{9C64B775-2EC5-4161-B176-71BCB4C89E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.MarkDown.Editor.EXE.MonoMac.Document", "HolisticWare.MarkDown.Editor.EXE.MonoMac.Document\HolisticWare.MarkDown.Editor.EXE.MonoMac.Document.csproj", "{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "moblie", "moblie", "{6952E36A-6AB4-4457-B366-F2032EFFA499}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "desktop", "desktop", "{238900F9-2B29-4D08-9E75-0DDBA44A2212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.MarkDown.Editor.EXE.WindowsForms", "HolisticWare.MarkDown.Editor.EXE.WindowsForms\HolisticWare.MarkDown.Editor.EXE.WindowsForms.csproj", "{8CA79CF2-FA96-4A05-94A9-6867BC10935A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.MarkDown.Editor.EXE.WPF", "HolisticWare.MarkDown.Editor.EXE.WPF\HolisticWare.MarkDown.Editor.EXE.WPF.csproj", "{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AppStore|Any CPU = AppStore|Any CPU
+		AppStore|Mixed Platforms = AppStore|Mixed Platforms
+		AppStore|x86 = AppStore|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.AppStore|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.AppStore|Any CPU.Build.0 = Debug|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.AppStore|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.AppStore|Mixed Platforms.Build.0 = Release|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.AppStore|x86.ActiveCfg = Release|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F}.Release|x86.ActiveCfg = Release|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.AppStore|Mixed Platforms.ActiveCfg = AppStore|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.AppStore|Mixed Platforms.Build.0 = AppStore|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.AppStore|x86.ActiveCfg = AppStore|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313}.Release|x86.ActiveCfg = Release|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.AppStore|Mixed Platforms.ActiveCfg = AppStore|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.AppStore|Mixed Platforms.Build.0 = AppStore|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.AppStore|x86.ActiveCfg = AppStore|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D}.Release|x86.ActiveCfg = Release|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.AppStore|Mixed Platforms.ActiveCfg = AppStore|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.AppStore|Mixed Platforms.Build.0 = AppStore|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.AppStore|x86.ActiveCfg = AppStore|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210}.Release|x86.ActiveCfg = Release|Any CPU
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.AppStore|Any CPU.ActiveCfg = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.AppStore|Mixed Platforms.ActiveCfg = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.AppStore|Mixed Platforms.Build.0 = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.AppStore|x86.ActiveCfg = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.AppStore|x86.Build.0 = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Debug|x86.ActiveCfg = Debug|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Debug|x86.Build.0 = Debug|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Release|Any CPU.ActiveCfg = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Release|x86.ActiveCfg = Release|x86
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A}.Release|x86.Build.0 = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.AppStore|Any CPU.ActiveCfg = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.AppStore|Mixed Platforms.ActiveCfg = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.AppStore|Mixed Platforms.Build.0 = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.AppStore|x86.ActiveCfg = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.AppStore|x86.Build.0 = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Debug|x86.ActiveCfg = Debug|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Debug|x86.Build.0 = Debug|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Release|Any CPU.ActiveCfg = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Release|Mixed Platforms.Build.0 = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Release|x86.ActiveCfg = Release|x86
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DED1EBC9-3EA1-4A44-A660-7775B6C2146F} = {238900F9-2B29-4D08-9E75-0DDBA44A2212}
+		{FF6C2DAD-BA2D-4F6D-905E-912092E38313} = {238900F9-2B29-4D08-9E75-0DDBA44A2212}
+		{9C64B775-2EC5-4161-B176-71BCB4C89E2D} = {238900F9-2B29-4D08-9E75-0DDBA44A2212}
+		{D99BCFD0-C6A7-49A5-BA70-D9672CFFC210} = {238900F9-2B29-4D08-9E75-0DDBA44A2212}
+		{8CA79CF2-FA96-4A05-94A9-6867BC10935A} = {238900F9-2B29-4D08-9E75-0DDBA44A2212}
+		{87841FDD-F4DD-444C-AD5B-9BE0B96EC3B9} = {238900F9-2B29-4D08-9E75-0DDBA44A2212}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HolisticWare.MarkDown.Editor.EXE.GTK\HolisticWare.MarkDown.Editor.EXE.GTK.csproj
+	EndGlobalSection
+EndGlobal

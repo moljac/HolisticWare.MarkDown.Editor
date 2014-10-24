@@ -1,0 +1,3 @@
+[submodule "submodulez/MonoVersal.MarkDown"]
+	path = submodulez/MonoVersal.MarkDown
+	url = https://github.com/moljac/MonoVersal.MarkDown.git
